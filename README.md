@@ -14,22 +14,28 @@
 для непосредественного удержания пульта. Присоединение к раме осуществлялось за счет болтового соединения, соединение держателя и подставки за счет винтового.
 
 ## 3D модели 
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d096a236-639d-4eb8-bc04-0f366be0b132"  width="50%" height="50%"/>
 
   <img src="https://github.com/user-attachments/assets/06059f8e-ed37-40bf-8fb3-a1a3dfdfa4fc"  width="50%" height="50%"/>
+</p>
 
 ## Процесс производства
+
 <div align="center">
   <video src=https://github.com/user-attachments/assets/25461fd7-ae82-443e-b083-bafd02979ffb controls></video>
-  
+</div>
+
 ## Итоговый результат
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5b173959-6ac7-4f9a-b51d-f6a29b46d5ee"  width="50%" height="50%"/>
 
   <img src="https://github.com/user-attachments/assets/77d39e18-8c0e-4eca-8ed0-49b1e6705bd3"  width="50%" height="50%"/>
 
   <img src="https://github.com/user-attachments/assets/1d19351b-78d9-487a-acef-4c5e4fe45f5e"  width="50%" height="50%"/>
+</p>
 
 ## Выводы
 
